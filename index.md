@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Bienvenue à Infocontact Casablanca
 
-You can use the [editor on GitHub](https://github.com/JamiEgy/local/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Infocontact](https://casablanca.infocontact.ma/) est un service de recherche locale en ligne qui participative par un communauté d’avis populaire, aide les personnes dans leur recherche des meilleurs lieux pour manger, faire du shopping, boire un verre, se détendre et jouer, en fonction des avis d’une communauté vivante et active d’utilisateurs locaux qui connaissent les bons plans. Infocontact est un outil amusant et facile pour effectuer des recherches, publier des avis et discuter de ce qui vous plaît — ou non — dans votre région.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Infocontact est-il gratuit ?
 
-### Markdown
+Oui ! A l’exception de certaines de nos fonctionnalités liées à la publicité, vous pouvez utiliser le site gratuitement.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Qui utilise Infocontact ?
 
-```markdown
-Syntax highlighted code block
+Vous trouverez un large éventail de personnes sur Infocontact, y compris des locaux bien informés sur ce qui est cool et ce qui se passe dans leur ville, des touristes qui veulent avoir l’avis d’un initié et toute personne souhaitant trouver un bon commerce local.
 
-# Header 1
-## Header 2
-### Header 3
+### Qu’est-ce que le badge Infocontact Verified?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JamiEgy/local/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Le badge vérifié est un badge bleu en forme de bouclier situé à côté du nom de l’entreprise sur certaines pages d’entreprise sur Infocontact. Lorsqu’une entreprise est vérifiée par Infocontact, cela signifie que notre équipe de modérateurs a vérifié la licence commerciale de cette entreprise et a confirmé qu’elle était en règle à la date de notre vérification. Les utilisateurs peuvent cliquer ou cliquer pour consulter les détails de la licence et de l’autorité émettrice.
