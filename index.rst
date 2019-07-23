@@ -1,4 +1,4 @@
-## Bienvenue à Infocontact Casablanca
+<h2>Bienvenue à Infocontact Casablanca</h2>
 
 [Infocontact](https://casablanca.infocontact.ma/) est un service de recherche locale en ligne qui participative par un communauté d’avis populaire, aide les personnes dans leur recherche des meilleurs lieux pour manger, faire du shopping, boire un verre, se détendre et jouer, en fonction des avis d’une communauté vivante et active d’utilisateurs locaux qui connaissent les bons plans. Infocontact est un outil amusant et facile pour effectuer des recherches, publier des avis et discuter de ce qui vous plaît — ou non — dans votre région.
 
